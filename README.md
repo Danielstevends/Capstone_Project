@@ -11,9 +11,6 @@ In this repository, I use 3 different machine learning model:
 
 More information about the methodology and result could be depicted in the presentation file: Presentation - Climate Impact Assessment of Generator Usage using Machine Learning_ A Case Study from DR Congo.pdf
 
-\section*{Prepare Environment}
-
-
 More information about the methodology and results can be found in the presentation file:  
 *Presentation - Climate Impact Assessment of Generator Usage using Machine Learning: A Case Study from DR Congo.pdf*
 
