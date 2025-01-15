@@ -26,6 +26,7 @@ To prepare the environment, follow these steps:
 
 ### 1. Create a Virtual Environment
 ```bash
+git clone https://github.com/Danielstevends/Generator_ML_Emission_Modeling
 python -m venv venv
 source venv/bin/activate # for mac
 venv\Scripts\activate # for windows
@@ -39,4 +40,9 @@ pip install -r requirements.txt
 # For the functions
 cd ModelingFunctions
 pip install -r requirements.txt
+```
+
+### 3. Verify installation
+```bash
+pip freeze
 ```
