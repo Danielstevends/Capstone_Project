@@ -29,9 +29,12 @@ To prepare the environment, follow these steps:
 python -m venv venv
 source venv/bin/activate # for mac
 venv\Scripts\activate # for windows
-```bash
+```
 
 ### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+
 
 
 
