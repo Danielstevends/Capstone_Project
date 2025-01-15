@@ -33,9 +33,10 @@ venv\Scripts\activate # for windows
 
 ### 2. Install Dependencies
 ```bash
+# For the modeling
 pip install -r requirements.txt
 
-
-
-
-
+# For the functions
+cd ModelingFunctions
+pip install -r requirements.txt
+```
