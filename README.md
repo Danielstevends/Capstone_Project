@@ -13,7 +13,6 @@ More information about the methodology and result could be depicted in the prese
 
 \section*{Prepare Environment}
 
-# Generator Machine Learning Emission Modeling
 
 More information about the methodology and results can be found in the presentation file:  
 *Presentation - Climate Impact Assessment of Generator Usage using Machine Learning: A Case Study from DR Congo.pdf*
