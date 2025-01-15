@@ -27,6 +27,12 @@ To prepare the environment, follow these steps:
 ### 1. Create a Virtual Environment
 ```bash
 python -m venv venv
+source venv/bin/activate # for mac
+venv\Scripts\activate # for windows
+```bash
+
+### 2. Install Dependencies
+
 
 
 
