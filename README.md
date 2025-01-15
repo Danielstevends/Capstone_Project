@@ -13,33 +13,20 @@ More information about the methodology and result could be depicted in the prese
 
 \section*{Prepare Environment}
 
+# Generator Machine Learning Emission Modeling
+
+More information about the methodology and results can be found in the presentation file:  
+*Presentation - Climate Impact Assessment of Generator Usage using Machine Learning: A Case Study from DR Congo.pdf*
+
+---
+
+## Prepare Environment
+
 To prepare the environment, follow these steps:
 
-\subsection*{1. Create a Virtual Environment}
-\begin{verbatim}
+### 1. Create a Virtual Environment
+```bash
 python -m venv venv
-\end{verbatim}
 
-\subsection*{2. Activate the Virtual Environment}
-- On Windows:
-\begin{verbatim}
-venv\Scripts\activate
-\end{verbatim}
-- On macOS/Linux:
-\begin{verbatim}
-source venv/bin/activate
-\end{verbatim}
-
-\subsection*{3. Install Dependencies}
-Install the required libraries:
-\begin{verbatim}
-pip install -r requirements.txt
-\end{verbatim}
-
-\subsection*{4. Verify Installation}
-Make sure all dependencies are installed:
-\begin{verbatim}
-pip freeze
-\end{verbatim}
 
 
